@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 data: Theme.of(context).copyWith(splashColor: Colors.transparent),
                 child: TextField(
                   autofocus: false,
-                  style: TextStyle(fontSize: 25.0, color: Colors.green),
+                  style: TextStyle(fontSize: 25.0, color: Colors.black),
                   decoration: InputDecoration(
                     filled: true,
                     fillColor: Colors.transparent,
